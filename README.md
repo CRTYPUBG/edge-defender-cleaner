@@ -12,7 +12,7 @@ It focuses on removing unnecessary leftovers, optimizing system behavior, and pr
 ---
 
 ## 🖼️ Preview
-<img width="618" height="618" alt="{F4EB5298-CC29-4942-BB27-CF96F5290627}" src="https://github.com/user-attachments/assets/95c81e59-408a-46e4-bc13-9cc849a9a797" />
+<img width="1060" height="618" alt="{F4EB5298-CC29-4942-BB27-CF96F5290627}" src="https://github.com/user-attachments/assets/95c81e59-408a-46e4-bc13-9cc849a9a797" />
 
 ---
 
