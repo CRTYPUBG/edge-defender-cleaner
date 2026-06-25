@@ -1,4 +1,4 @@
-# edge-defender-cleaner
+<img width="45" height="45" alt="app_icon" src="https://github.com/user-attachments/assets/9d651e4d-cff5-4c9c-8e45-7bfda12a8f0e" /> # edge-defender-cleaner
 
 Windows utility for managing and cleaning Microsoft Edge and Windows Defender components.
 
@@ -12,8 +12,7 @@ It focuses on removing unnecessary leftovers, optimizing system behavior, and pr
 ---
 
 ## 🖼️ Preview
-
-<img width="618" height="526" alt="app_icon" src="https://github.com/user-attachments/assets/9d651e4d-cff5-4c9c-8e45-7bfda12a8f0e" />
+<img width="618" height="618" alt="{F4EB5298-CC29-4942-BB27-CF96F5290627}" src="https://github.com/user-attachments/assets/95c81e59-408a-46e4-bc13-9cc849a9a797" />
 
 ---
 
